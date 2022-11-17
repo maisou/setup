@@ -3,14 +3,14 @@
 ### ปิดใช้งาน Secure Boot / Memory integrity
 
 ![](https://blog.janjan.net/wp/wp-content/uploads/2022/10/asrock-uefi-secure-boot-enabled-02.jpg)
-> เข้าหน้าต่าง BIOS แล้วเลื่อนหาหัวข้อ Secure Boot แล้วเลือก Disable
+> เข้าหน้าต่าง BIOS เลื่อนหาหัวข้อ Secure Boot แล้วเลือก Disable
 
 ![](https://i.imgur.com/lzJ7aCT.png)
-> กดปุ่ม Window แล้ว search หา Core Isolation
+> กดปุ่ม Window แล้ว search หา Core Isolation ปรับเป็น Off ที่ Memory integrity
 
-#### ให้ทำตามทุกขั้นตอน
-#### ถ้ามีปัญหา error ยังไงให้แคปรูปมาให้ดูได้
-#### วิธีติดตั้งไดร์เวอร์เมาส์ (จำเป็นต้องติดตั้ง)
+##### ให้ทำตามทุกขั้นตอน
+##### ถ้ามีปัญหา error ยังไงให้แคปรูปมาให้ดูได้
+##### วิธีติดตั้งไดร์เวอร์เมาส์ (จำเป็นต้องติดตั้ง)
 
 1.  แตกไฟล์ driver.zip แล้วเปิด folder เข้าไป
 2.  เปิด powershell ด้วย admin (คลิกขวาที่ปุ่มวินโดว์)
