@@ -18,7 +18,7 @@
 5.  คำสั่งแรกพิมพ์  ```./dc64.exe install dd.mou.94396.inf "dd.mou.94396"```      แล้ว Enter 
 6.  คำสั่งสองพิมพ์  ```./64.exe install DDHID1906.inf "DDHID1906\HID_DEVICE"```   แล้ว Enter
 
-พอขึ้นว่า Drivers installed Successfully  ทั้ง 2 บรรทัดให้ปิดหน้าต่าง powershell ไป
+พอขึ้นว่า ```Drivers installed Successfully```  ทั้ง 2 บรรทัดให้ปิดหน้าต่าง powershell ไป
 
 ![](https://i.imgur.com/zDkTUim.png)
 
@@ -44,8 +44,7 @@ Gamma/Contrast/Brightness = Default
 ![](https://i.imgur.com/BC0bRWu.png)
 
 Graphics Quality 
-
-Low  ทุกอย่างตามรูป
+Low ทุกอย่างตามรูป
 
 # Unlock high FPS
 ![](https://i.imgur.com/OsqeQf1.png)
