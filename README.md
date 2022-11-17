@@ -28,25 +28,25 @@
 
 # In-Game settings
 
-![](https://i.imgur.com/INbk0xj.png)
-
+(Color Blindness) <br />
 Enemy UI Color  =  Magenta
 
-![](https://i.imgur.com/zkeczgN.png)
-
-ตั้งค่าในเกม (Video)
+(Video) <br />
 Display Mode = Borderless Windowed <br />
 Frame rate = Custom <br />
 Maximum Frame Rate = 600
 
-Gamma/Contrast/Brightness = Default
-
-![](https://i.imgur.com/BC0bRWu.png)
-
-Graphics Quality 
+(Graphics Quality) <br />
 Low ทุกอย่างตามรูป
 
+Gamma/Contrast/Brightness = Default
+
+![](https://i.imgur.com/INbk0xj.png)
+![](https://i.imgur.com/zkeczgN.png)
+![](https://i.imgur.com/BC0bRWu.png)
+
 # Unlock high FPS
-![](https://i.imgur.com/OsqeQf1.png)
 
 ปิด G-Sync / FreeSync Unlock FPS ให้สูงที่สุด
+![](https://i.imgur.com/OsqeQf1.png)
+
