@@ -1,9 +1,15 @@
 # Install Mouse Drivers
 
+### Disabling Secure Boot / Memory integrity
+
+![](https://blog.janjan.net/wp/wp-content/uploads/2022/10/asrock-uefi-secure-boot-enabled-02.jpg)
+> เข้าหน้าต่าง BIOS แล้วเลื่อนหาหัวข้อ Secure Boot
+
+![](https://i.imgur.com/lzJ7aCT.png)
+> กดปุ่ม Window แล้ว search หา Core Isolation
+
 #### ให้ทำตามทุกขั้นตอน
 #### ถ้ามีปัญหา error ยังไงให้แคปรูปมาให้ดูได้
-
-
 #### วิธีติดตั้งไดร์เวอร์เมาส์ (จำเป็นต้องติดตั้ง)
 
 1.  แตกไฟล์ driver.zip แล้วเปิด folder เข้าไป
