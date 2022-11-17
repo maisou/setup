@@ -1,9 +1,9 @@
 # Install Mouse Drivers
 
-ให้ทำตามทุกขั้นตอน <br />
-ถ้ามีปัญหา error ยังไงให้แคปรูปมาให้ดูได้
+### ให้ทำตามทุกขั้นตอน <br />
+### ถ้ามีปัญหา error ยังไงให้แคปรูปมาให้ดูได้
 
-วิธีติดตั้งไดร์เวอร์เมาส์ (จำเป็นต้องติดตั้ง)
+#### วิธีติดตั้งไดร์เวอร์เมาส์ (จำเป็นต้องติดตั้ง)
 
 1.  แตกไฟล์ driver.zip แล้วเปิด folder เข้าไป
 2.  เปิด powershell ด้วย admin (คลิกขวาที่ปุ่มวินโดว์)
@@ -17,6 +17,8 @@
 ![](https://i.imgur.com/nKLVp0B.png)
 ![](https://i.imgur.com/waYp3hS.png)
 
+# Bot install
+
 1. แตกไฟล์ bot.zip 
 2. เอาไฟล์ mdrv.dll ไปวางไว้ที่ไดฟ์  C:/  ตามรูป
 3. เปิด main.exe แล้วกรอกโค๊ดเปิดใช้งานโปรแกรม
@@ -25,15 +27,15 @@
 
 # In-Game settings
 
-(Color Blindness) <br />
+### (Color Blindness) <br />
 Enemy UI Color  =  Magenta
 
-(Video) <br />
+### (Video) <br />
 Display Mode = Borderless Windowed <br />
 Frame rate = Custom <br />
 Maximum Frame Rate = 600
 
-(Graphics Quality) <br />
+### (Graphics Quality) <br />
 Low ทุกอย่างตามรูป
 
 Gamma/Contrast/Brightness = Default
