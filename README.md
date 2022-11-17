@@ -1,9 +1,9 @@
 # Install Mouse Drivers
 
-### Disabling Secure Boot / Memory integrity
+### ปิดใช้งาน Secure Boot / Memory integrity
 
 ![](https://blog.janjan.net/wp/wp-content/uploads/2022/10/asrock-uefi-secure-boot-enabled-02.jpg)
-> เข้าหน้าต่าง BIOS แล้วเลื่อนหาหัวข้อ Secure Boot
+> เข้าหน้าต่าง BIOS แล้วเลื่อนหาหัวข้อ Secure Boot แล้วเลือก Disable
 
 ![](https://i.imgur.com/lzJ7aCT.png)
 > กดปุ่ม Window แล้ว search หา Core Isolation
