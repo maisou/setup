@@ -5,31 +5,29 @@
 ![](https://blog.janjan.net/wp/wp-content/uploads/2022/10/asrock-uefi-secure-boot-enabled-02.jpg)
 > เข้าหน้าต่าง BIOS เลื่อนหาหัวข้อ Secure Boot แล้วเลือก Disable
 
-![](https://i.imgur.com/lzJ7aCT.png)
+![](https://media.discordapp.net/attachments/1033371424972349440/1033395675657932870/unknown.png)
 > กดปุ่ม Window แล้ว search หา Core Isolation ปรับเป็น Off ที่ Memory integrity
 
 ##### พยายามอย่าข้ามขั้นตอน ถ้ามีปัญหา error ยังไงให้แคปรูปมาให้ดูได้
 ##### วิธีติดตั้งไดร์เวอร์เมาส์ (จำเป็นต้องติดตั้ง)
 
-1.  แตกไฟล์ driver.zip แล้วเปิด folder เข้าไป
-2.  เปิด powershell ด้วย admin (คลิกขวาที่ปุ่มวินโดว์)
-3.  ก็อปที่อยู่โฟลเดอร์ driver ตามรูป
-4.  พิมพ์ cd ตามด้วยที่อยู่โฟลเดอร์ driver ที่ก็อปมาตามข้อ 3. แล้ว Enter
-5.  คำสั่งแรกพิมพ์  ```./dc64.exe install dd.mou.94396.inf "dd.mou.94396"```      แล้ว Enter 
-6.  คำสั่งสองพิมพ์  ```./64.exe install DDHID1906.inf "DDHID1906\HID_DEVICE"```   แล้ว Enter
 
-พอขึ้นว่า ```Drivers installed Successfully```  ทั้ง 2 บรรทัดให้ปิดหน้าต่าง powershell ไป
+1. แตกไฟล์ bot-win11.zip บน Desktop เปิดโฟลเดอร์เข้าไปแล้วก๊อปที่อยู่โฟลเดอร์ไว้
+2. เปิด powershell ด้วย admin  (คลิกขวาที่ปุ่ม windows เลือก Terminal (admin) )
+3. พิมพ์ cd แล้วตามด้วยโฟลเดอร์ที่ก๊อปมา แล้วกด Enter
+4. พิมพ์  ```.\install-driver.exe /install```   เพื่อติดตั้ง driver พอขึ้น success ให้รีคอมทีนึง
 
-![](https://i.imgur.com/nKLVp0B.png)
-![](https://i.imgur.com/waYp3hS.png)
-
-# Bot install
-
-1. แตกไฟล์ bot.zip 
-2. เอาไฟล์ mdrv.dll ไปวางไว้ที่ไดฟ์  C:/  ตามรูป
-3. เปิด main.exe แล้วกรอกโค๊ดเปิดใช้งานโปรแกรม
-
-![](https://i.imgur.com/zDkTUim.png)
+5. หลังรีคอมเสร็จ เอา 3 ไฟล์นี้ ไปวางไว้ที่ C:/
+```
+mdrv2.dll
+interception.dll
+InputInterceptor.dll
+```
+![](https://media.discordapp.net/attachments/1033371424972349440/1033396183080636477/unknown.png)
+![](https://images2.imgbox.com/80/e2/HPVUlfEH_o.png)
+![](https://media.discordapp.net/attachments/1033371424972349440/1033397082653995159/unknown.png)
+![](https://media.discordapp.net/attachments/1033371424972349440/1033397640253145148/unknown.png)
+![](https://media.discordapp.net/attachments/1033371424972349440/1033398253267456192/unknown.png)
 
 # In-Game settings
 
