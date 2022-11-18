@@ -1,5 +1,5 @@
 # NOTES
-
+```
 [F2] = Widowmaker [F3] = Cassidy [F4] = Ashe [F5] = Sojourn 
 [F6] = Aimbot #1 [F7] = Aimbot #2 [F8] = Aimbot #3 [F9] = Aimbot #4 
 [F10] = Reload Config
@@ -27,3 +27,5 @@ and this is very close to that if you want to try to only shoot the head.
 Flickbot without Precise mode will use same hitbox as Triggerbot more consistant shots but will try to shoot any part of the body
 
 The [HOME] button is for benchmarking the reaction speed from enemy detection to mouse click (Triggerbot only) and should be less than 15ms
+
+```
