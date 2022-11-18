@@ -47,6 +47,7 @@ Enemy UI Color  =  Magenta
 Display Mode = Borderless Windowed <br />
 Frame rate = Custom <br />
 Maximum Frame Rate = 600
+V-Sync = Off
 
 ### (Graphics Quality) <br />
 Low ทุกอย่างตามรูป
@@ -59,7 +60,7 @@ Gamma/Contrast/Brightness = Default
 
 # Unlock high FPS
 
-ปิด G-Sync / FreeSync Unlock FPS ให้สูงที่สุด
+ปิด G-Sync / FreeSync / V-Sync Unlock FPS ให้สูงที่สุด
 
 ![](https://i.imgur.com/OsqeQf1.png)
 
