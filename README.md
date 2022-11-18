@@ -1,4 +1,32 @@
-# NOTES
+# TH
+```
+[F2] = Widowmaker [F3] = Cassidy [F4] = Ashe [F5] = Sojourn 
+[F6] = Aimbot #1 [F7] = Aimbot #2 [F8] = Aimbot #3 [F9] = Aimbot #4 
+[F10] = รีโหลด Config
+[F12] = เปิด/ปิด ใช้งาน Flick Mode
+[HOME] เทสความเร็วในการยิงเมื่อเจอศัตรู
+[END] ปิดโปรแกรม
+
+เมื่อเปิดโปรแกรมทุกครั้งจะโหลดตั้งค่าเริ่มตอนของตัว Cassidy ( โหมด Triggerbot) สามารถเปลี่ยนเป็นโหมดอื่นโดยการกด (F2 F3 F4 ... F12 อื่นๆ)
+
+วิธีการเปลี่ยนตั้งค่าต่างๆ ให้เปิด vortex.cfg ด้วย notepad เมื่อแก้ค่าเสร็จกดเซฟไฟล์ (Ctrl + S) จากนั้นกด F10 โปรจะทำการโหลดค่าต่างๆใหม่โดยไม่ต้องปิดเปิดโปรใหม่
+
+ถ้าต้องการแก้ปุ่ม Hotkey สำหรับใช้งานโปรในโหมดต่างๆ ให้ดูโค๊ดจากเว็บนี้ https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes  เช่น 0xA4 = ปุ่ม Alt
+
+Widow/Cassidy/Ashe/Sojourn จะมี Triggerbot กับ Flickbot สำหรับ Sojourn จะเป็นท่ายิงคลิกขวา Railgun
+
+ในขณะที่กำลังใช้งานตัวละครที่มี Triggerbot เมื่อกด F12 จะเปลี่ยนเป็น Flick Mode กดอีกทีเพื่อกลับไปเป็น Triggerbot
+
+Aimbot สามารถตั้งค่าได้ 4 โปรไฟล์ ใช้สำหรับตั้งค่าพวกตัวละคร Tracer/76/Dva/Zarya
+
+Precise Mode เป็นฟังชั่นสำหรับ Flickbot เมื่อเปิดใช้งานโปรจะทำงานโดยการ aim ไปที่จุด X,Y บนร่างกายแบบเจาะจง เหมาะสำหรับคนที่อยากให้ยิงหัวอย่างเดียว 
+แต่เนื่องจากโปรนี้ไม่ได้ยุ่งกับตัวเกมเช่นการ inject ไปในตัวเกมเพื่อดึงค่า Head offset ออกมาทำให้การค่า X,Y ที่ได้มาอาจคลาดเคลื่อนบ้าง 
+
+
+```
+
+
+# ENG
 ```
 [F2] = Widowmaker [F3] = Cassidy [F4] = Ashe [F5] = Sojourn 
 [F6] = Aimbot #1 [F7] = Aimbot #2 [F8] = Aimbot #3 [F9] = Aimbot #4 
