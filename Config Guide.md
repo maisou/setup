@@ -10,7 +10,7 @@ pause_hotkey = 0x14     # ปุ่มสำหรับ pause โปรแก�
                         # เมื่อกด จะหยุดการทำงานของ aimbot / triggerbot / flickbot กดอีกทีเพื่อเปิดใช้งาน
                         
 [Cassidy]               # รวมทั้งโหมดตัวละครอื่นๆ
-cassidy_hotkey = 0x02   # ถ้าต้องการเปลี่ยนเป็นปุ่มอื่น ดูโค๊ดที่เว็บนี้ https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
+trigger_hotkey = 0x02   # ปุ่มใช้งาน triggerbot/flickbot ถ้าต้องการเปลี่ยนเป็นปุ่มอื่น ดูโค๊ดที่เว็บนี้ https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
 fov = 200               # field of view 
 hitbox_scale = 0.70     # ค่าความกว้างของตัวละคร สำหรับ Triggerbot ค่าที่เหมาะสมจะอยู่ที่ประมาณ 0.6 - 0.8 กำลังพอดี
 shoot_delay = 0.5       # ดีเลย์ในการยิงแต่ละนัด สำหรับทั้ง Triggerbot และ Flickbot
@@ -46,7 +46,7 @@ Benchmark_mode = False   # Same as [HOME] button
 pause_hotkey = 0x14     # pause cheat button default is capslock useful when trying to use ultimate 
 
 [Cassidy]               # and other characters 
-cassidy_hotkey = 0x02   # change hotkey code see this https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
+trigger_hotkey = 0x02   # change hotkey code see this https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
 fov = 200               # field of view 
 hitbox_scale = 0.70     # between 0.65-0.8 is good  
 shoot_delay = 0.5       # delay between each shot (both Triggerbot and Flickbot) 
