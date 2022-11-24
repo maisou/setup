@@ -5,6 +5,7 @@
 [F10] = รีโหลด Config
 [F12] = เปิด/ปิด ใช้งาน Flick Mode
 [HOME] เทสความเร็วในการยิงเมื่อเจอศัตรู
+[INSERT] โปรมองทะลุ
 [END] ปิดโปรแกรม
 
 เมื่อเปิดโปรแกรมทุกครั้งจะโหลดตั้งค่าเริ่มต้นของตัวละคร Cassidy ( โหมด Triggerbot) สามารถเปลี่ยนเป็นโหมดอื่นโดยการกด (F2 F3 F4 ... F12 อื่นๆ)
@@ -22,17 +23,20 @@ Aimbot สามารถตั้งค่าได้ 4 โปรไฟล์ 
 Precise Mode เป็นฟังชั่นสำหรับ Flickbot เมื่อเปิดใช้งานโปรจะทำงานโดยการ aim ไปที่จุด X,Y บนร่างกายแบบเจาะจง เหมาะสำหรับคนที่อยากให้ยิงหัวอย่างเดียว 
 แต่เนื่องจากโปรนี้ไม่ได้ยุ่งกับตัวเกมเช่นการ inject ไปในตัวเกมเพื่อดึงค่า Head offset ออกมาทำให้การค่า X,Y ที่ได้มาอาจคลาดเคลื่อนบ้าง 
 
+กดปุ่ม Insert เพื่อเปิดโปรมองทะลุ บางเกมจะแสดงผลผิดฝั่ง (ขึ้นกรอบฝั่งตัวเอง) ให้กดปุ่ม PageUP บนคีย์บอร์ดเพื่อเปลี่ยนเป็นแสดงผลฝั่งศัตรู
+
 
 ```
 
 
 # ENG
 ```
-[F2] = Widowmaker [F3] = Cassidy [F4] = Ashe [F5] = Sojourn 
-[F6] = Aimbot #1 [F7] = Aimbot #2 [F8] = Aimbot #3 [F9] = Aimbot #4 
-[F10] = Reload Config
-[F12] = Enable/Disable Flickbot 
-[HOME] to benchmark reaction speed of bot from rendering to mouse trigger 
+[F2] Widowmaker [F3] Cassidy [F4] Ashe [F5] Sojourn
+[F6] Aimbot #1 [F7] Aimbot #2 [F8] Aimbot #3 [F9] Aimbot #4
+[F10] Reload Config
+[F12] Enable/Disable Flickbot
+[HOME] to benchmark reaction speed of bot from rendering to mouse trigger
+[INSERT] ESP/Wallhack
 [END] to exit program
 
 Everytime you launch the cheat it will load Cassidy mode (Triggerbot) by default then you can switch to other mode using (F2 F3 ... F12 etc.)
@@ -55,5 +59,7 @@ and this is very close to that if you want to try to only shoot the head.
 Flickbot without Precise mode will use same hitbox as Triggerbot more consistant shots but will try to shoot any part of the body
 
 The [HOME] button is for benchmarking the reaction speed from enemy detection to mouse click (Triggerbot only) and should be less than 15ms
+
+[INSERT] to enable ESP/Wallhack sometimes it bugged showing boxes on your teammates press [PageUp] on your keyboard to fix this
 
 ```
