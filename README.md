@@ -8,6 +8,8 @@
 [INSERT] โปรมองทะลุ
 [END] ปิดโปรแกรม
 
+** ปรับเกมเป็นโหมด borderless windowed และปรับสีศัตรูให้เป็น Magenta **
+
 เมื่อเปิดโปรแกรมทุกครั้งจะโหลดตั้งค่าเริ่มต้นของตัวละคร Cassidy ( โหมด Triggerbot) สามารถเปลี่ยนเป็นโหมดอื่นโดยการกด (F2 F3 F4 ... F12 อื่นๆ)
 
 วิธีการเปลี่ยนตั้งค่าต่างๆ ให้เปิด vortex.cfg ด้วย notepad เมื่อแก้ค่าเสร็จกดเซฟไฟล์ (Ctrl + S) จากนั้นกด F10 โปรจะทำการโหลดค่าต่างๆใหม่โดยไม่ต้องปิดเปิดโปรใหม่
@@ -38,6 +40,8 @@ Precise Mode เป็นฟังชั่นสำหรับ Flickbot เม
 [HOME] to benchmark reaction speed of bot from rendering to mouse trigger
 [INSERT] ESP/Wallhack
 [END] to exit program
+
+** change Overwatch to Borderless Windowed mode and enemy color to Magenta  **
 
 Everytime you launch the cheat it will load Cassidy mode (Triggerbot) by default then you can switch to other mode using (F2 F3 ... F12 etc.)
 
