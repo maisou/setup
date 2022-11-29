@@ -1,12 +1,12 @@
-# ปิดใช้งาน Secure Boot / Memory integrity (ทำตามนี้ก่อนจะเปิดโปร)
+## ปิดใช้งาน Secure Boot / Memory integrity (ทำตามนี้ก่อนที่จะเปิดโปรแกรม)
 
 ![](https://blog.janjan.net/wp/wp-content/uploads/2022/10/asrock-uefi-secure-boot-enabled-02.jpg)
 > เข้าหน้าต่าง BIOS เลื่อนหาหัวข้อ Secure Boot แล้วเลือก Disable
 
-![](https://i.imgur.com/lzJ7aCT.png)
+![](https://media.discordapp.net/attachments/1031662726046552084/1047121351405731881/image.png)
 > กดปุ่ม Window แล้ว search หา Core Isolation ปรับเป็น Off ที่ Memory integrity
 
-# install
+## install
 
 1. แตกไฟล์ bot.zip 
 2. เปิด main.exe (คลิกขวา Run as administrator) แล้วกรอกโค๊ดเปิดใช้งานโปรแกรม
@@ -14,7 +14,7 @@
 4. เมื่อขึ้นว่า ```Driver load Success.``` และจากนั้นขึ้นว่า``` Cassidy mode -> On``` แสดงว่าพร้อมใช้งานแล้ว
 5. ให้ตั้งค่าในเกมตามด้านล่างต่อ
 
-# In-Game settings
+## In-Game settings
 
 ### (Color Blindness) <br />
 Enemy UI Color  =  Magenta
