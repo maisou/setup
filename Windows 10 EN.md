@@ -9,7 +9,7 @@
 ## install
 
 1. Extract bot.zip 
-2. open __main.exe__ (Select __Run as administrator__) Enter the license code
+2. Right Click __main.exe__ Select __Run as administrator__ Enter the license code
 3. When launch for the first time cheat will install the driver. wait for a while
 4. after you see  ```Driver load Success.``` then ``` Cassidy mode -> On``` indicates that it is ready to use
 5. follow in-game settings below
