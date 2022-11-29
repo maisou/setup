@@ -25,7 +25,7 @@ If you want to change the hotkey code see this > https://learn.microsoft.com/en-
 
 Only Widow/Cassidy/Ashe/Sojourn has Triggerbot and Flickbot  (for sojourn is railgun beam)
 
-While using Triggerbot you can press F12 to turn on/off Flickmode this will not conflict with Aimbot mode
+While using Triggerbot you can press F12 to turn on/off Flickmode
 
 Aimbot has 4 Profiles you can setting up them for Tracer/76/Dva/Zarya etc.
 
