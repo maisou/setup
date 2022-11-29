@@ -29,7 +29,7 @@ free_y = False          # aimbot will not move mouse in Y axis if True to look m
 aim_height = 0          # 0 = center of body , 6 = about the head 
 
 [Precise]
-Precise_mode = False    # True/False (change how Flickbot will work shoot only specific location if true or use Triggerbot hitbox if False) 
+Precise_mode = False    # True/False (change how Flickbot will work shoot only specific position if true or use Triggerbot hitbox if False) 
 Hitbox_size = 15        # Hitbox around the aim position for precise mode only
 aim_height = 6          # 0 = center of body , 6 = about the head 
 ```
