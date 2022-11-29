@@ -11,8 +11,8 @@ pause_hotkey = 0x14     # pause cheat button default is capslock useful when try
 trigger_hotkey = 0x02   # change hotkey code see this https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
 fov = 200               # field of view 
 hitbox_scale = 0.70     # between 0.65-0.8 is good  
-shoot_delay = 0.5       # delay between each shot (Triggerbot) 
-x_speed = 0.8           # speed in X axis (while using Flickbot) 
+shoot_delay = 0         # delay between each shot (Triggerbot) Cassidy and Ashe should be 0
+x_speed = 0.8           # speed in X axis (Flickbot) 
 y_speed = 0.5           # speed in Y axis 
 acceleration = 0.9      # x and y multiplier  higher = faster 
 flick_height = 6        # 0 = center of body , 6 = about the head 
