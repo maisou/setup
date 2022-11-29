@@ -47,9 +47,13 @@ Low ทุกอย่างตามรูป
 
 Gamma/Contrast/Brightness = Default
 
+### (Controls) <br />
+Interface -> Toggle UI -> Mouse Scroll Wheel 'UP'
+
 ![](https://i.imgur.com/INbk0xj.png)
 ![](https://i.imgur.com/zkeczgN.png)
 ![](https://i.imgur.com/BC0bRWu.png)
+![](https://media.discordapp.net/attachments/1034460902608617593/1046945759599276103/image.png?width=1083&height=609)
 
 # Unlock high FPS
 
