@@ -2,8 +2,7 @@
 ```
 [Misc] 
 device_id = 0            # monitor id ถ้าคอมใช้หลายจอ แล้วเล่นเกมอยู่ที่จออื่นที่ไม่ใช่จอหลักให้ลองเปลี่ยนเป็นเลข 1 หรือ 2 แทน
-Target_fps = 300         # ความเร็วในการแสกนหน้าจอเพื่อเช็คหาศัตรูที่อยู่บนหน้าจอ
-Benchmark_mode = False   # เหมือนกับปุ่ม [HOME] ใช้สำหรับเช็คความเร็วในการคลิกเมาส์เมื่อเจอศัตรู
+fps = 300                # ความเร็วในการแสกนหน้าจอเพื่อเช็คหาศัตรูที่อยู่บนหน้าจอ
 
 [Hotkey] 
 pause_hotkey = 0x14     # ปุ่มสำหรับ pause โปรแกรม ค่าเดิมจะเป็นปุ่ม Capslock
@@ -18,6 +17,8 @@ x_speed = 0.8           # ความเร็วในการขยับเ
 y_speed = 0.5           # ความเร็วในการขยับเมาส์แนวตั้ง (สำหรับ Flickbot)
 acceleration = 0.9      # ตัวเร่งความเร็วในการขยับเมาส์ทั้งแนวตั้งและแนวนอน ยิ่งเยอะ = ยิ่งเป้าดูดเข้าหาตัวศัตรู
 flick_height = 6        # ความสูงในการ aim 0 = กลางลำตัว , 6 = ประมาณหัว
+
+quick_scope = True      # มีเฉพาะ Widowmaker เมื่อเป็น True ทุกครั้งที่ Widow ยิงจะทำการเก็บลำกล้องเพื่อความเนียน
 
 [Aimbot1]               # รวมทั้งโหมด aimbot อื่นๆ
 aimbot_hotkey = 0x01    # ถ้าต้องการเปลี่ยนเป็นปุ่มอื่น ดูโค๊ดที่เว็บนี้ https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
@@ -39,8 +40,7 @@ aim_height = 6          # ความสูงในการ aim 0 = กลา
 ```
 [Misc] 
 device_id = 0            # monitor id if you playing overwatch on second monitor try change to 1 instead  
-Target_fps = 300         # how fast program will try to read the screen shouldnt be too high or program will break 
-Benchmark_mode = False   # Same as [HOME] button 
+fps = 300                # how fast program will try to read the screen shouldnt be too high or program will break 
 
 [Hotkey] 
 pause_hotkey = 0x14     # pause cheat button default is capslock useful when trying to use ultimate 
