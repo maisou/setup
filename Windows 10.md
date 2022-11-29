@@ -1,6 +1,4 @@
-# Install Mouse Drivers
-
-### ปิดใช้งาน Secure Boot / Memory integrity
+# ปิดใช้งาน Secure Boot / Memory integrity (ทำตามนี้ก่อนจะเปิดโปร)
 
 ![](https://blog.janjan.net/wp/wp-content/uploads/2022/10/asrock-uefi-secure-boot-enabled-02.jpg)
 > เข้าหน้าต่าง BIOS เลื่อนหาหัวข้อ Secure Boot แล้วเลือก Disable
@@ -11,8 +9,10 @@
 # install
 
 1. แตกไฟล์ bot.zip 
-2. เปิด main.exe แล้วกรอกโค๊ดเปิดใช้งานโปรแกรม
-3. เมื่อเปิดใช้งานโปรครั้งและกรอกโค๊ดครั้งแรกจะทำการติดตั้ง Driver ให้รอสักพัก
+2. เปิด main.exe (คลิกขวา Run as administrator) แล้วกรอกโค๊ดเปิดใช้งานโปรแกรม
+3. เมื่อเปิดโปรแกรมและกรอกโค๊ดครั้งแรกจะทำเริ่มทำการการติดตั้ง Driver ให้รอสักพัก
+4. เมื่อขึ้นว่า ```Driver load Success.``` และจากนั้นขึ้นว่า``` Cassidy mode -> On``` แสดงว่าพร้อมใช้งานแล้ว
+5. ให้ตั้งค่าในเกมตามด้านล่างต่อ
 
 # In-Game settings
 
