@@ -14,7 +14,7 @@
 
 เมื่อเปิดโปรแกรมทุกครั้งจะโหลดตั้งค่าเริ่มต้นของตัวละคร Cassidy (โหมด Triggerbot) สามารถเปลี่ยนเป็นโหมดอื่นโดยการกด (F2 F3 F4 ... F12 อื่นๆ)
 
-วิธีการเปลี่ยนตั้งค่าต่างๆ ให้เปิด vortex.cfg ด้วย notepad เมื่อแก้ค่าเสร็จกดเซฟไฟล์ (Ctrl + S) จากนั้นกด F10 โปรจะทำการโหลดค่าต่างๆใหม่โดยไม่ต้องปิดเปิดโปรใหม่
+วิธีการเปลี่ยนตั้งค่าต่างๆ ให้เปิด profiles.ini ด้วย notepad เมื่อแก้ค่าเสร็จกดเซฟไฟล์ (Ctrl + S) จากนั้นกด F10 โปรจะทำการโหลดค่าต่างๆใหม่โดยไม่ต้องปิดเปิดโปรใหม่
 
 ถ้าต้องการแก้ปุ่ม Hotkey สำหรับใช้งานโปรในโหมดต่างๆ ให้ดูโค๊ดจากเว็บนี้ https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes  เช่น 0xA4 = ปุ่ม Alt
 
@@ -56,7 +56,7 @@ Precise Mode เป็นฟังชั่นสำหรับ Flickbot เม
 
 Everytime you launch the cheat it will load Cassidy mode (Triggerbot) by default then you can switch to other mode using (F2 F3 ... F12 etc.)
 
-To update character settings. Open vortex.cfg using notepad edit the value then save file (Ctrl + S) and 
+To update character settings. Open 'profiles.ini' using notepad edit the value then save file (Ctrl + S) and 
 press [F10] to force cheat to reload config without restart program 
 
 If you want to change the hotkey code see this > https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes 
