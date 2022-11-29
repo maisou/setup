@@ -40,7 +40,8 @@ The [HOME] button is for benchmarking the reaction speed from enemy detection to
 [INSERT] to enable ESP/Wallhack sometimes it bugged showing boxes on your teammates press [PageUp] on your keyboard to fix this
 
 Hide UI is for characters that require high precision. so the bot doesn't try to shoot at the enemy's health bar/name.
-When this mode is enabled, while holding down the hotkey (aimbot/flickbot/triggerbot) will hide the health bar/name to increase accuracy
+When this mode is enabled, while holding down the hotkey (aimbot/flickbot/triggerbot) it will toggle off in-game UI to get clear view of enemy 
+
 Need to change In-Game Hotkey for Toggle UI to Mouse Wheel Scroll "UP" first 
 Game Options Controls -> Interface -> Toggle UI -> Mouse Wheel Scroll UP
 
