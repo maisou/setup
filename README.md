@@ -6,6 +6,8 @@
 [F12] = เปิด/ปิด ใช้งาน Flick Mode
 [HOME] เทสความเร็วในการยิงเมื่อเจอศัตรู
 [INSERT] โปรมองทะลุ
+[ALT+1] เปิดโหมดซ่อน Ui 
+        ต้องตั้งค่าในเกมตามนี้ก่อน Controls -> Interface -> Toggle UI -> Mouse Wheel Scroll up
 [END] ปิดโปรแกรม
 
 ** ปรับเกมเป็นโหมด borderless windowed และปรับสีศัตรูให้เป็น Magenta **
@@ -27,18 +29,27 @@ Precise Mode เป็นฟังชั่นสำหรับ Flickbot เม
 
 กดปุ่ม Insert เพื่อเปิดโปรมองทะลุ บางเกมจะแสดงผลผิดฝั่ง (ขึ้นกรอบฝั่งตัวเอง) ให้กดปุ่ม PageUP บนคีย์บอร์ดเพื่อเปลี่ยนเป็นแสดงผลฝั่งศัตรู
 
+โหมดซ่อน UI ใช้สำหรับตัวละครที่ต้องใช้ความแม่นยำสูง เพื่อให้โปรไม่พยายามยิงไปที่เลือด/ชื่อของศัตรู 
+เมื่อเปิดใช้งานโหมดนี้ เวลากด hotkey ค้าง aimbot/flickbot/triggerbot จะทำการซ่อนเลือด/ชื่อ เพื่อเพิ่มความแม่นยำ
+ในเกมต้องไปตั้งที่ Options  Controls -> Interface -> Toggle UI -> Mouse Wheel Scroll up
+
 
 ```
 
 
 # ENG
 ```
+
 [F2] Widowmaker [F3] Cassidy [F4] Ashe [F5] Sojourn
 [F6] Aimbot #1 [F7] Aimbot #2 [F8] Aimbot #3 [F9] Aimbot #4
+
 [F10] Reload Config
 [F12] Enable/Disable Flickbot
 [HOME] to benchmark reaction speed of bot from rendering to mouse trigger
 [INSERT] ESP/Wallhack
+[ALT+1] Enable/Disable Hide UI mode
+        Game Options Controls -> Interface -> Toggle UI -> Mouse Wheel Scroll up
+
 [END] to exit program
 
 ** change Overwatch to Borderless Windowed mode and enemy color to Magenta  **
@@ -65,5 +76,10 @@ Flickbot without Precise mode will use same hitbox as Triggerbot more consistant
 The [HOME] button is for benchmarking the reaction speed from enemy detection to mouse click (Triggerbot only) and should be less than 15ms
 
 [INSERT] to enable ESP/Wallhack sometimes it bugged showing boxes on your teammates press [PageUp] on your keyboard to fix this
+
+Hide UI is for characters that require high precision. so the bot doesn't try to shoot at the enemy's health bar/name.
+When this mode is enabled, while holding down the hotkey (aimbot/flickbot/triggerbot) will hide the health bar/name to increase accuracy
+Need to change In-Game Hotkey for Toggle UI to Mouse Wheel Scroll "UP" first 
+Game Options Controls -> Interface -> Toggle UI -> Mouse Wheel Scroll UP
 
 ```
