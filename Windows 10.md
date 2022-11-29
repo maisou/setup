@@ -9,7 +9,7 @@
 ## install
 
 1. แตกไฟล์ bot.zip 
-2. เปิด main.exe (คลิกขวา Run as administrator) แล้วกรอกโค๊ดเปิดใช้งานโปรแกรม
+2. เปิด __main.exe__ (คลิกขวา __Run as administrator__) แล้วกรอกโค๊ดเปิดใช้งานโปรแกรม
 3. เมื่อเปิดโปรแกรมและกรอกโค๊ดครั้งแรกจะทำเริ่มทำการการติดตั้ง Driver ให้รอสักพัก
 4. เมื่อขึ้นว่า ```Driver load Success.``` และจากนั้นขึ้นว่า``` Cassidy mode -> On``` แสดงว่าพร้อมใช้งานแล้ว
 5. ให้ตั้งค่าในเกมตามด้านล่างต่อ
@@ -17,13 +17,13 @@
 ## In-Game settings
 
 ### (Color Blindness) <br />
-Enemy UI Color  =  Magenta
+Enemy UI Color  =  __Magenta__
 
 ### (Video) <br />
-Display Mode = Borderless Windowed <br />
+Display Mode = __Borderless Windowed__ <br />
 Frame rate = Custom <br />
 Maximum Frame Rate = 600 <br />
-V-Sync = Off
+V-Sync = __Off__
 
 ### (Graphics Quality) <br />
 Low ทุกอย่างตามรูป
@@ -31,7 +31,7 @@ Low ทุกอย่างตามรูป
 Gamma/Contrast/Brightness = Default
 
 ### (Controls) <br />
-Interface -> Toggle UI -> Mouse Scroll Wheel 'UP'
+Interface -> Toggle UI -> __Mouse Scroll Wheel 'UP'__
 
 ![](https://i.imgur.com/INbk0xj.png)
 ![](https://i.imgur.com/zkeczgN.png)
