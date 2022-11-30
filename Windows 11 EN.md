@@ -6,7 +6,7 @@
 ![](https://media.discordapp.net/attachments/1031662726046552084/1047121351405731881/image.png)
 > press Window key then search for Core Isolation enter. then turn Memory integrity to OFF
 
-##### วิธีติดตั้งไดร์เวอร์เมาส์ 
+##### Install
 
 1. Extract bot-win11.zip
 2. Right Click __main.exe__ Select __Run as administrator__ Enter the license code
