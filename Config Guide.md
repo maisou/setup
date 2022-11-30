@@ -3,6 +3,12 @@
 [Misc] 
 device_id = 0            # monitor id if you playing overwatch on second monitor try change to 1 instead  
 fps = 300                # how fast program will try to read the screen shouldnt be too high or program will break 
+detection_level = 3      # how confident the cheat will detect the enemies 1-5 
+                           some map like Dorado has many small purple paper pieces on the ground (first point)
+                           bot get confused sometime and try to shoot that small pieces instead of enemy you trying to aim
+                           so you may want to set detection_level to 4 or 5 to filter out that those papers
+                           but trade off is that bot cant detect far away or small enemies
+                           other maps you can set it to 1,2,3 depends how you like it
 
 [Hotkey] 
 pause_hotkey = 0x14     # pause cheat button default is capslock useful when trying to use ultimate 
