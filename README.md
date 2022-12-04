@@ -14,7 +14,7 @@
 
 [END] to exit program
 
-** change Overwatch to Borderless Windowed mode and enemy color to Magenta  **
+** change Enemy color to Magenta  **
 
 Everytime you launch the cheat it will load Cassidy mode (Triggerbot) by default then you can switch to other mode using (F2 F3 ... F12 etc.)
 
