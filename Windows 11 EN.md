@@ -23,7 +23,6 @@
 Enemy UI Color  =  __Magenta__
 
 ### (Video) <br />
-Display Mode = __Borderless Windowed__ <br />
 Frame rate = Custom <br />
 Maximum Frame Rate = 600 <br />
 V-Sync = __Off__
