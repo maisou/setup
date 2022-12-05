@@ -1,11 +1,3 @@
-## Disable Secure Boot / Memory integrity (do this first)
-
-![](https://blog.janjan.net/wp/wp-content/uploads/2022/10/asrock-uefi-secure-boot-enabled-02.jpg)
-> reboot the PC then Enter BIOS window looking for Secure Boot option then select Disable
-
-![](https://media.discordapp.net/attachments/1031662726046552084/1047121351405731881/image.png)
-> press Window key then search for Core Isolation enter. then turn Memory integrity to OFF
-
 ##### Install
 
 1. Extract bot-win11.zip
