@@ -1,12 +1,4 @@
-## ปิดใช้งาน Secure Boot / Memory integrity (ทำตามนี้ก่อนที่จะเปิดโปรแกรม)
-
-![](https://blog.janjan.net/wp/wp-content/uploads/2022/10/asrock-uefi-secure-boot-enabled-02.jpg)
-> เข้าหน้าต่าง BIOS เลื่อนหาหัวข้อ Secure Boot แล้วเลือก Disable
-
-![](https://media.discordapp.net/attachments/1033371424972349440/1033395675657932870/unknown.png)
-> กดปุ่ม Window แล้ว search หา Core Isolation ปรับเป็น Off ที่ Memory integrity
-
-##### วิธีติดตั้งไดร์เวอร์เมาส์ 
+### วิธีติดตั้งไดร์เวอร์เมาส์ 
 
 1. แตกไฟล์ bot-win11.zip
 2. เปิด __main.exe__ (คลิกขวา __Run as administrator__) แล้วกรอกโค๊ดเปิดใช้งานโปรแกรม
