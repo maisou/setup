@@ -1,4 +1,4 @@
-##### Install
+## Install
 
 1. Extract bot-win11.zip
 2. Right Click __main.exe__ Select __Run as administrator__ Enter the license code
