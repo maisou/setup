@@ -16,7 +16,7 @@ Enemy UI Color  =  __Magenta__
 
 ### (Video) <br />
 Frame rate = Custom <br />
-Maximum Frame Rate = 600 <br />
+Maximum Frame Rate = 300 <br />
 V-Sync = __Off__
 
 ### (Graphics Quality) <br />
