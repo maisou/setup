@@ -16,7 +16,7 @@ Enemy UI Color  =  __Magenta__
 
 ### (Video) <br />
 Frame rate = Custom <br />
-Maximum Frame Rate = 300 (keep in mind that stable FPS will affecting smoothness of aimbot)<br />
+Maximum Frame Rate = 300 (**keep in mind that stable FPS will affecting smoothness of aimbot**)<br />
 V-Sync = __Off__
 
 ### (Graphics Quality) <br />
