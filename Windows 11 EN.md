@@ -28,7 +28,7 @@ Gamma/Contrast/Brightness = Default
 Interface -> Toggle UI -> __Mouse Scroll Wheel 'UP'__
 
 ![](https://i.imgur.com/INbk0xj.png)
-![](https://i.imgur.com/zkeczgN.png)
+![](https://media.discordapp.net/attachments/1031658340272570451/1049592572458307584/image.png?width=1083&height=609)
 ![](https://i.imgur.com/BC0bRWu.png)
 ![](https://media.discordapp.net/attachments/1034460902608617593/1046945759599276103/image.png?width=1083&height=609)
 
