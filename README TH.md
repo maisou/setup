@@ -7,7 +7,6 @@
 [HOME] เทสความเร็วในการยิงเมื่อเจอศัตรู
 [INSERT] โปรมองทะลุ
 [ALT+1] เปิดโหมดซ่อน Ui 
-        ต้องตั้งค่าในเกมตามนี้ก่อน Controls -> Interface -> Toggle UI -> Mouse Wheel Scroll up
 [END] ปิดโปรแกรม
 
 ** ปรับเกมเป็นโหมด borderless windowed และปรับสีศัตรูให้เป็น Magenta **
