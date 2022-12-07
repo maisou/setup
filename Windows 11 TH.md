@@ -31,11 +31,11 @@ Interface -> Toggle UI -> __Mouse Scroll Wheel 'UP'__
 ![](https://i.imgur.com/INbk0xj.png)
 ![](https://i.imgur.com/zkeczgN.png)
 ![](https://i.imgur.com/BC0bRWu.png)
-![](https://media.discordapp.net/attachments/1034460902608617593/1050150180055433256/image.png?width=791&height=609)
+![](https://media.discordapp.net/attachments/1034460902608617593/1046945759599276103/image.png?width=1083&height=609)
 
 # Unlock high FPS
 
 ปิด G-Sync / FreeSync / V-Sync Unlock FPS ให้สูงที่สุด
 
-![](https://i.imgur.com/OsqeQf1.png)
+![](https://media.discordapp.net/attachments/1034460902608617593/1050150180055433256/image.png?width=791&height=609)
 
