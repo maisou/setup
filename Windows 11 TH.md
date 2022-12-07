@@ -15,7 +15,6 @@
 Enemy UI Color  =  Magenta
 
 ### (Video) <br />
-Display Mode = Borderless Windowed <br />
 Frame rate = Custom <br />
 Maximum Frame Rate = 300 <br />
 V-Sync = Off
