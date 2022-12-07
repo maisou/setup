@@ -4,7 +4,7 @@
 2. เปิด __main.exe__ (คลิกขวา __Run as administrator__) แล้วกรอกโค๊ดเปิดใช้งานโปรแกรม
 3. เมื่อเปิดโปรแกรมและกรอกโค๊ดครั้งแรกจะทำเริ่มทำการการติดตั้ง Driver ให้รอสักพัก
 4. เมื่อติดตั้งเสร็จขึ้นว่า ```Done. Please restart PC first``` ให้รีคอมหนึงที
-5. เปิดโปรแกรมใหม่ เมื่อขึ้นว่า ```Driver load Success.``` และจากนั้นขึ้นว่า``` Cassidy mode -> On``` แสดงว่าพร้อมใช้งานแล้ว
+5. เมื่อรีสตาร์ทคอมเสร็จ เปิด main.exe เมื่อขึ้นว่า ``` Cassidy mode -> On``` แสดงว่าพร้อมใช้งานแล้ว
 6. ให้ตั้งค่าในเกมตามด้านล่างต่อ
 
 ![](https://media.discordapp.net/attachments/1033371424972349440/1033398532129959987/unknown.png)
@@ -17,7 +17,7 @@ Enemy UI Color  =  Magenta
 ### (Video) <br />
 Display Mode = Borderless Windowed <br />
 Frame rate = Custom <br />
-Maximum Frame Rate = 600 <br />
+Maximum Frame Rate = 300 <br />
 V-Sync = Off
 
 ### (Graphics Quality) <br />
