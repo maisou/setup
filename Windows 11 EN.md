@@ -36,5 +36,5 @@ Interface -> Toggle UI -> __Mouse Scroll Wheel 'UP'__
 
 turn off G-Sync / FreeSync / V-Sync to Unlock high FPS
 
-![](https://i.imgur.com/OsqeQf1.png)
+![](https://media.discordapp.net/attachments/1034460902608617593/1050150180055433256/image.png?width=791&height=609)
 
