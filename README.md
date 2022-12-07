@@ -9,9 +9,6 @@
 [HOME] to benchmark reaction speed of bot from rendering to mouse trigger
 [INSERT] ESP/Wallhack (doesn't on Fullscreen mode)
 [ALT+1] Enable/Disable Hide UI mode
-        
-        Options -> Controls -> Interface -> Toggle UI -> Mouse Wheel Scroll up
-
 [END] to exit program
 
 ** change Enemy color to Magenta  **
