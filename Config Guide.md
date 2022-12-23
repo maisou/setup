@@ -11,7 +11,7 @@ detection_level = 3      # how confident the cheat will detect the enemies 1-5
                            other maps you can set it to 1,2,3 depends how you like it
 mouse_mode = 1           # there is 2 modes
                          # Mode 1 work with both Windows 10 and 11 but doesnt work with Valorant
-                         # Mode 2 work with only Windows 10 and also Valorant (borderless windowed only / enemy purple)
+                         # Mode 2 work with only Windows 10 and also Valorant (enemy purple)
 
 [Hotkey] 
 pause_hotkey = 0x14     # pause cheat button default is capslock useful when trying to use ultimate 
