@@ -13,7 +13,7 @@
 
 ** change Enemy color to Magenta  **
 
-Everytime you launch the cheat it will load Cassidy mode (Triggerbot) by default then you can switch to other mode using (F2 F3 ... F12 etc.)
+Everytime you launch the cheat it will load Cassidy mode (Flickbot) by default then you can switch to other mode using (F2 F3 ... F12 etc.)
 
 To update character settings. Open 'profiles.ini' using notepad edit the value then save file (Ctrl + S) and 
 press [F10] to force cheat to reload config without restart program 
