@@ -6,9 +6,9 @@
 
 [F10] Reload Config
 [F12] Enable/Disable Flickbot
-[HOME] to benchmark reaction speed of bot from rendering to mouse trigger
-[INSERT] ESP/Wallhack (doesn't on Fullscreen mode)
-[ALT+1] Enable/Disable Hide UI mode
+[HOME] Enable/Disable Hide UI mode
+[INSERT] ESP/Wallhack (not work on Fullscreen mode)
+
 [END] to exit program
 
 ** change Enemy color to Magenta  **
@@ -32,11 +32,9 @@ and this is very close to that if you want to try to only shoot the head.
 
 Flickbot without Precise mode will use same hitbox as Triggerbot more consistant shots but will try to shoot any part of the body
 
-The [HOME] button is for benchmarking the reaction speed from enemy detection to mouse click (Triggerbot only) and should be less than 15ms
-
 [INSERT] to enable ESP/Wallhack sometimes it bugged showing boxes on your teammates press [PageUp] on your keyboard to fix this
 
-Hide UI is for characters that require high precision. so the bot doesn't try to shoot at the enemy's health bar/name.
+[HOME] Hide UI is for characters that require high precision. so the bot doesn't try to shoot at the enemy's health bar/name.
 When this mode is enabled, while holding down the hotkey (aimbot/flickbot/triggerbot) it will toggle off in-game UI to get clear view of enemy 
 
 Need to change In-Game Hotkey for Toggle UI to Mouse Wheel Scroll "UP" first 
