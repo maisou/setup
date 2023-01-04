@@ -3,12 +3,11 @@
 [F2] = Widowmaker [F3] = Cassidy [F4] = Ashe [F5] = Sojourn 
 [F6] = Aimbot #1 [F7] = Aimbot #2 [F8] = Aimbot #3 [F9] = Aimbot #4 
 [F10] = รีโหลด Config
-[F12] = เปิด/ปิด ใช้งาน Flick Mode
+[F12] = เปิดโหมดซ่อน Ui 
 [HOME] เทสความเร็วในการยิงเมื่อเจอศัตรู
 [INSERT] โปรมองทะลุ
-[ALT+1] เปิดโหมดซ่อน Ui 
-[END] ปิดโปรแกรม
 
+[END] ปิดโปรแกรม
 
 เมื่อเปิดโปรแกรมทุกครั้งจะโหลดตั้งค่าเริ่มต้นของตัวละคร Cassidy (โหมด Triggerbot) สามารถเปลี่ยนเป็นโหมดอื่นโดยการกด (F2 F3 F4 ... F12 อื่นๆ)
 
@@ -32,6 +31,5 @@ Precise Mode เป็นฟังชั่นสำหรับ Flickbot เม
 โหมดซ่อน UI ใช้สำหรับตัวละครที่ต้องใช้ความแม่นยำสูง
 เมื่อเปิดใช้งานโหมดนี้ เวลากด hotkey ค้าง aimbot/flickbot/triggerbot จะทำการซ่อนเลือด/ชื่อ เพื่อเพิ่มความแม่นยำ
 ในเกมต้องไปตั้งที่ Options  Controls -> Interface -> Toggle UI -> Mouse Wheel Scroll up
-
 
 ```
