@@ -3,8 +3,8 @@
 [F2] = Widowmaker [F3] = Cassidy [F4] = Ashe [F5] = Sojourn 
 [F6] = Aimbot #1 [F7] = Aimbot #2 [F8] = Aimbot #3 [F9] = Aimbot #4 
 [F10] = รีโหลด Config
-[F12] = เปิดโหมดซ่อน Ui 
-[HOME] เทสความเร็วในการยิงเมื่อเจอศัตรู
+[F12] = เปิด/ปิด Flickmode
+[HOME] = เปิด/ปิด โหมด Hide UI
 [INSERT] โปรมองทะลุ
 
 [END] ปิดโปรแกรม
