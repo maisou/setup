@@ -2,19 +2,18 @@
 ```
 [Misc] 
 device_id = 0            # monitor id if you playing overwatch on second monitor try change to 1 instead  
-fps = 300                # how fast program will try to read the screen shouldnt be too high or program will break 
-detection_level = 3      # how confident the cheat will detect the enemies 1-5 
+detection_level = 1      # how confident the cheat will detect the enemies 1-5 
                            some map like Dorado has many small purple paper pieces on the ground (first point)
                            bot get confused sometime and try to shoot that small pieces instead of enemy you trying to aim
                            so you may want to set detection_level to 4 or 5 to filter out that those papers
-                           but trade off is that bot cant detect far away or small enemies
+                           but if set too high (3-4-5) bot cant detect far away or small enemy
                            other maps you can set it to 1,2,3 depends how you like it
 mouse_mode = 1           # there is 2 modes
                          # Mode 1 work with both Windows 10 and 11 but doesnt work with Valorant
-                         # Mode 2 work with only Windows 10 and also Valorant (enemy purple)
+                         # Mode 2 work with only Windows 10 and also Valorant (set enemy purple)
 
 [Hotkey] 
-pause_hotkey = 0x14     # pause cheat button default is capslock useful when trying to use ultimate 
+pause_hotkey = 0x14     # pause cheat button default is Capslock
 
 [Cassidy]               # and other characters 
 trigger_hotkey = 0x02   # change hotkey code see this https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
