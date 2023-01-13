@@ -7,7 +7,7 @@
 5. run main.exe again, after message ```Driver load Success.``` indicates that it is ready to use
 6. follow in-game settings below
 
-![](https://media.discordapp.net/attachments/1033371424972349440/1033398532129959987/unknown.png)
+![](https://media.discordapp.net/attachments/1034460902608617593/1063485037225451640/image.png?width=941&height=604)
 
 ## In-Game settings
 
@@ -16,7 +16,7 @@ Enemy UI Color  =  __Magenta__
 
 ### (Video) <br />
 Frame rate = Custom <br />
-Maximum Frame Rate = 300 (**keep in mind that stable FPS will affecting smoothness of aimbot**)<br />
+Maximum Frame Rate = 300<br />
 V-Sync = __Off__
 
 ### (Graphics Quality) <br />
@@ -32,7 +32,7 @@ Interface -> Toggle UI -> __Mouse Scroll Wheel 'UP'__
 ![](https://i.imgur.com/BC0bRWu.png)
 ![](https://media.discordapp.net/attachments/1034460902608617593/1046945759599276103/image.png?width=1083&height=609)
 
-# Unlock high FPS
+# Unlock high FPS (Optional)
 
 turn off G-Sync / FreeSync / V-Sync to Unlock high FPS
 
