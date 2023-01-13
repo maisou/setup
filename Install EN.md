@@ -4,7 +4,7 @@
 2. Right Click __main.exe__ Select __Run as administrator__ Enter the license code
 3. When launch for the first time program will install the drivers. wait for a while
 4. after message ```Done. Please restart PC first``` Restart your PC
-5. run main.exe again after message ```Driver load Success.``` then ``` Cassidy mode -> On```indicates that it is ready to use
+5. run main.exe again, after message ```Driver load Success.``` indicates that it is ready to use
 6. follow in-game settings below
 
 ![](https://media.discordapp.net/attachments/1033371424972349440/1033398532129959987/unknown.png)
