@@ -7,7 +7,7 @@
 5. เมื่อรีสตาร์ทคอมเสร็จ เปิด main.exe เมื่อขึ้นว่า ``` Driver load Success.``` แสดงว่าพร้อมใช้งานแล้ว
 6. ให้ตั้งค่าในเกมตามด้านล่างต่อ
 
-![](https://media.discordapp.net/attachments/1033371424972349440/1033398532129959987/unknown.png)
+![](https://media.discordapp.net/attachments/1034460902608617593/1063485037225451640/image.png?width=941&height=604)
 
 # In-Game settings
 
